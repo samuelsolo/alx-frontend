@@ -21,8 +21,6 @@
     --line-height-small: 1.2;
     --line-height-base: 1.5;
     --line-height-big: 1.8;
-
-    --section-header-align: center;
     
 }
 
@@ -55,10 +53,6 @@ a {
 
 .card-category{
     color: color-primary;
-}
-
-.section-header{
-    align-items: var(--section-header-align);
 }
 
 .section-tagline {
