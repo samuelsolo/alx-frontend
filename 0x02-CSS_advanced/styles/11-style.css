@@ -66,6 +66,6 @@ a {
 .section-tagline {
     color: color-primary;
     font-family: var(--font-family-title);
-    transition-property: var(--section-tagline-transform);
-    font-weight: bold;
+    transform: var(--section-tagline-transform);
+    font-weight: var(--font-weight-bold);
 }
