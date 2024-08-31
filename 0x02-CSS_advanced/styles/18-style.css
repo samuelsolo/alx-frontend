@@ -154,7 +154,7 @@ a:active {
     padding: calc(0.5 * var(--root-padding)) var(--root-padding);
 }
 
-.nav .nav-link :hover {
+.nav .nav-link:hover {
     color: var(--nav-item-link-hover);
 }
 
